@@ -9,7 +9,7 @@ An **End-to-End Machine Learning Platform** that turns unstructured customer rev
 ---
 
 ## 🚀 Live Demo
-**Try the App here:** [Universal Feedback Analyst on Hugging Face](https://huggingface.co/spaces/YOUR_USERNAME/universal-feedback-analyst)
+**Try the App here:** [Universal Feedback Analyst on Hugging Face](https://huggingface.co/spaces/mahaant-4/universal-feedback-analyst)
 
 *(Upload the `test_data.csv` provided in this repo to test the features)*
 
