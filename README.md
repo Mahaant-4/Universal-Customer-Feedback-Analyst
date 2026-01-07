@@ -67,3 +67,6 @@ This dashboard is designed for **Product Managers** and **Strategy Teams** to el
 ├── data/
 │   └── test_data.csv        # Sample dataset for testing
 └── README.md                # Documentation
+```
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
